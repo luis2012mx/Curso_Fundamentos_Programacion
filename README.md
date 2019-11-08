@@ -29,5 +29,5 @@
 27. Uml y encapsulado Bono Navideño
 28. Algoritmo Corredor
 29. Uml Corredor
-30. Programa del corredor
+30. Programa del corredor <br/>
 ------Hasta aqui presentamos para la Unidad 1 y 2------
